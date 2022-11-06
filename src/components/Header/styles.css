@@ -1,0 +1,17 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 70px;
+    width: 100%;
+    background-color: #2D333B;
+
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+}
